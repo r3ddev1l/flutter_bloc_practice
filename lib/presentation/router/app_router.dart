@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:flutter_bloc_concepts/logic/cubit/counter_cubit.dart';
 import 'package:flutter_bloc_concepts/presentation/Screens/home_screen.dart';
 import 'package:flutter_bloc_concepts/presentation/Screens/second_screen.dart';
 import 'package:flutter_bloc_concepts/presentation/Screens/third_screen.dart';
